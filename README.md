@@ -6,3 +6,5 @@ LSArrayApp  read in the attached text file and store the data items within a tra
 
 LSBSTApp does the same thing but instead of traditional array it uses BST
 
+the results are printed in the output text file
+
