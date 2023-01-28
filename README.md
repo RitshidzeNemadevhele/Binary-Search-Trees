@@ -12,4 +12,4 @@ printAllAreas () - to print out the areas for every stage, day and start time, i
 
 LSBSTApp does the same thing but instead of traditional array it uses BST
 
-Using part2 and part 4  discretely count the number of comparison operations (<, >, =) you are performing in the code.  Only count where you are comparing the keys.
+Using part2(for traditional array) and part4(for bst)  discretely count the number of comparison operations (<, >, =) you are performing in the code.  Only count where you are comparing the keys.
